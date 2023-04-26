@@ -50,3 +50,56 @@ table {
 
 
 /* Write your css below here */
+
+header img{
+	width: 100px;
+}
+
+header a{
+	margin-right: 20px;
+}
+
+section{
+	padding: 20px 0 30px;
+}
+
+section p{
+	padding: 10px 0;
+}
+
+aside{
+	padding: 10px;
+}
+
+section table {
+	margin-bottom: 10px;
+}
+
+th, td {
+	text-align: left;
+	padding: 10px;
+}
+
+form {
+	width: 400px;
+	padding: 10px;
+}
+
+form input {
+	width: 100%;
+	padding: 5px;
+}
+
+form button{
+	width: max-content;
+	padding:10px 20px;
+	border: none;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin-top: 20px;
+}
